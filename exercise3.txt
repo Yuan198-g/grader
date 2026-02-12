@@ -1,0 +1,17 @@
+1.
+Do you like it too?
+Violets are blue
+I really like vim
+Roses are red
+
+2. I waa very tired when I was writing this sentence.
+2. I was very tired when I was writing this sentence.
+
+3. This line has a few words that need changing using the change operator.
+3. This line has a few words that need changing using the change operator.
+
+4. The first time I wrote this oh hey there cute puppy let's snuggle.
+4. The first time I wrote this sentence I got distracted.
+
+如果要更改 先vim 这个文件(.txt) 然后再按i做修改，完事了按esc 后:wq保存
+
